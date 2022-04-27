@@ -10,6 +10,6 @@ const PaletaContext = {
 };
 
 export const Api = {
-  baseUrl: "https://api-elgeladon.herokuapp.com/",
+  baseUrl: "https://api-elgeladon.herokuapp.com",
   ...PaletaContext,
 };
